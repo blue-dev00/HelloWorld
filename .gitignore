@@ -30,7 +30,7 @@ local.properties
 .idea/modules.xml
 .idea/scopes/scope_settings.xml
 .idea/vcs.xml
-.ides/discord.xml
+.idea/discord.xml
 *.iml
 
 # OS-specific files
