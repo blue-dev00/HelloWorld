@@ -1,0 +1,9 @@
+name: HelloWorld
+version: '0.1'
+main: com.bluedev.helloWorld.HelloWorld
+api-version: '1.20'
+authors: [ blue_dev ]
+description: hello world
+commands:
+  안녕:
+    description: 인사하기
